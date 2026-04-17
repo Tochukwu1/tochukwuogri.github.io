@@ -26,7 +26,15 @@ Developed a ML model to track aerial and ground robots moving around in a clutte
 The project's goal is to developed a system that can accurately detect when an attack has occurred on the system, determine which sensor has been attacked, generate timely alerts to notify human operators of the detected attack and compromised sensor, and leverage data from uncompromised systems to recover from the attack. [Auto Label Code](https://github.com/andrespulido8/sam2_yolo_autolabel) [[Conference Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13480/3053971/Lessons-from-RAITE--real-world-evaluation-of-robust-multimodal/10.1117/12.3053971.short)
 
 
-## System ID, dynamic modeling, control, and state estimation of a underwater vehicle (SubjuGator) and an autonomous surface vehicle (NaviGator)  
+## Scientific Diving for Human-Robot Collaboration to Perform Underwater Gesture Recognition
+<img src="/images/diver_recognition.png" width="350" /> 
+<img src="/images/cave_cut.gif" width="455" /> 
+
+
+These two complementary projects establish a comprehensive framework for underwater diver gesture recognition to advance human-robot collaboration in marine environments. The first project developed the Scuba Gesture Dataset (SGD11), a pioneering publicly available dataset containing annotated video sequences of 11 standard diver hand gestures captured in controlled underwater conditions, complete with benchmark evaluations of three gesture recognition models to serve as a foundation for autonomous underwater systems research. The second project built upon this foundation by creating a novel Spatio-Temporal Transformer-based algorithm that overcomes the limitations of traditional frame-wise detection methods by integrating temporal modeling to capture sequential motion patterns, significantly improving recognition accuracy and robustness against challenging underwater conditions including lighting fluctuations, visibility degradation, and partial occlusions. Together, these projects provide both the essential data infrastructure and advanced algorithmic capabilities needed for reliable underwater human-robot interaction, establishing a practical foundation for intelligent diver assistance systems and autonomous underwater vehicle collaboration in real-world marine operations: [[Dataset Paper]](https://xiaominlin.github.io/files/ICRA2025_AQ2UASIM_Workshop_Diver_Dataset.pdf), [[Dataset Repo]](https://github.com/theaprilab/SDG11), [[Algorithm Paper]](https://ieeexplore.ieee.org/document/11247289)
+
+
+## System ID, dynamic modeling, control, and state estimation of a underwater vehicle (SubjuGator) and an autonomous surface vehicle (NaviGator) for competitions  
 <img src="/images/subjugator.png" width="335" /> 
 <img src="/images/NaviGator.png" width="450" /> 
 
@@ -36,7 +44,6 @@ As part of the Machine Intelligence Lab (MIL) at the University of Florida, sinc
 - Documented an optimization-based thruster mapping ROS node for stable control of the autonomous submarine
 - Provided guidance and supervised the individual projects from the team members such as a water cooling computer system that used closed loop water to carry the heat from the computers vessel and dissipate it externally as well as the manufacturing of the sub's pressure vessels
 - Performed stress analysis in four nodes that connect the carbon fiber chassis of the Submarine to prevent failure
-- Designed a pneumatic PVC grabber made from 3D printed ABS plastic and an aluminum pneumatic manifold of six solenoid valves using Subtractive Rapid Prototyping that contributed to earning the 4th place of the 2018 RobotX competition in Hawaii, USA 
 
 
 ## Optimal Control Theory for Trajectory Generation of an Orbital Spacecraft  

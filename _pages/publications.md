@@ -15,6 +15,8 @@ D. Jung, **A. Pulido**, J. Shin and S. -W. Kim, **"Point Cloud Structural Simila
 **Andres Pulido**, Joseph Sforza, Jack Parker, Antonio Diaz, Nicholas Sardinia, Blake Sanders, Sayeed Ali, Alex Baker, Alex Theophanis, Daniel Minogue, Thomas Chase, Arthur Baker, Peter Ifju, Jane Shin, **"Autonomous Bathy-drone: An Autonomous Aerial-Aquatic Robotic System for Bathymetric Mapping with Input-Driven Path Planning and Surface Navigation and Control"**, IEEE Access (Submitted) 
 
 ## Conference
+Zhang, Zi-Hao and Herrin, E. Baker and Guo, Jia and Penumarti, Aditya and He, Zilong and, **Pulido, Andres** and Shin, Jane, **"Action Recognition for Underwater Gesture Communication in Human Diver and Robot Teaming,"** 2025 IEEERSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China. [[Confference Paper]](https://ieeexplore.ieee.org/document/11247289)
+
 **A. Pulido** and J. Shin, **"Uncertainty-Driven Online Path Planning for Autonomous Bathymetry Mapping Using a Tethered System"** AIAA SciTech 2026 Forum [[Conference Paper]](https://arc.aiaa.org/doi/10.2514/6.2026-2375)
 
 **A. Pulido**, K. Volle, Z. I. Bell and J. Shin, **"Transformer-based Motion Model for Robust Target Tracking under Intermittent and Noisy Measurements"** 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China. [[Confference Paper]](https://ieeexplore.ieee.org/document/11246328)
