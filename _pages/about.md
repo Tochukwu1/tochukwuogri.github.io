@@ -12,7 +12,7 @@ I am a PhD student and Graduate Research Assistant in [SCC Lab](https://scc-lab.
 
 Previously, I earned my B.Eng. in Mechanical Engineering (First Class Honors) from the University of Benin in December 2019. From January 2022 to August 2024, I completed Ph.D. coursework and served as a Graduate Research Assistant at Oklahoma State University before transitioning to the University of Florida. Prior to my graduate studies, I worked as a Software Engineer Graduate Trainee at Ecobank Transnational Incorporated.
 
-Read about my [Projects](https://tochukwu1.github.io/projects/), [Industry Experiences](https://tochukwu1.github.io/industry_experiences/), [Publications](https://tochukwu1.github.io/publications/), and [Podcast](https://tochukwu1.github.io/podcast/).
+Read about my [Projects](https://tochukwu1.github.io/projects/), [Industry Experiences](https://tochukwu1.github.io/industry_experiences/), and [Publications](https://tochukwu1.github.io/publications/).
 
 ## Research interests
 
