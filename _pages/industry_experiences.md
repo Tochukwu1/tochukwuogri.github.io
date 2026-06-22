@@ -5,30 +5,15 @@ permalink: /industry_experiences/
 author_profile: true
 ---
 
-## [Rivian](https://stories.rivian.com/enhanced-highway-assist-gen2)
-#### Software Engineering Intern - Autonomy (May - Aug 2025)
-<img src="/images/rivian_car_25.jpg" width="320" /> 
-<img src="/images/rivian_25.jpg" width="330" /> 
-<img src="/images/rivian_viz.gif" width="320" /> 
+## Autonomous Vehicles Lab, University of Florida Research and Engineering Education Facility
+#### Robotics & Autonomy Intern (May 2023 - Aug. 2023 & May 2024 - Jul. 2024)
 
-- To find close calls, I developed and implemented a safety metric for lateral distance to surrounding objects, including filtering logic to identify relevant vehicles and computing the minimum lateral distance in real-time.
-- Designed a dynamic Minimum Safe Lateral Distance Threshold model, incorporating reaction time, relative acceleration, and deceleration assumptions to quantify unsafe lateral proximity events.
-- Conducted A/B testing between a feature branch and baseline, analyzing lateral distance statistics, violations, regressions, and performance improvements to validate system behavior.
+- Designed Guidance, Navigation, and Control (GNC) architectures and trajectory optimization frameworks for the U.S. Air Force Research Laboratory (AFRL) Safe Trusted Autonomy for Responsible Spacecraft (STARS) program for orbital inspection under illumination, occlusion, and visibility constraints.
+- Implemented sequential feature tracking and real-time motion planning algorithms, validated in hardware-in-the-loop (HIL) simulation for robustness under sensor-denied and deployment-relevant conditions.
+- Designed monocular vision observers and extended Kalman filter (EKF) modules, integrating them into ROS2 software stacks to enable SLAM in GPS-denied environments.
+- Executed AFRL-sponsored flight experiments across UAV (Parrot Bebop) and UGV (TurtleBot) platforms to validate algorithmic performance under varying environmental conditions.
 
+## Ecobank Transnational Incorporated
+#### Software Engineering - Graduate Trainee (May 2021 - Dec. 2021)
 
-## [Aurora Innovation](https://aurora.tech/)
-#### Software Engineering Intern - Safety (May - Aug 2024)
-<img src="/images/aurora_truck_volvo.png" width="250" /> 
-<img src="/images/aurora_24.png" width="300" /> 
-<img src="/images/car_trajectories.jpg" width="420" /> 
-- To find behavior deficiencies in a self-driving truck’s planning model, I wrote a Python tool for coverage analysis based on internal metrics, which was able to find improvements in simulations created to test the AV behaviors.
-- Built a detector that achieved >90% precision for scenarios where the AV saw a vehicle on a separated shoulder.
-
-## [Aurora Innovation](https://aurora.tech/)
-#### Software Engineering Intern - Systems (May - Aug 2021)
-<img src="/images/aurora_truck_car.png" width="220" /> 
-<img src="/images/aurora_21.png" width="350" /> 
-<img src="/images/rollover_model.png" width="200" /> 
-- To inform planning and safety mechanism constraints, I formulated and wrote a Python tool to perform a time-interval safety analysis on excessive longitudinal acceleration fault scenarios of a self-driving car.
-- Derived one dynamic and three static 2D rollover models of a self-driving truck in Python, which served as the groundwork for the safety team to impose motion planning limits that prevent rollover in different conditions.
-
+- Built backend services in C#/.NET and Java (Spring Boot) for high-throughput financial systems, focusing on low-latency processing and reliability.

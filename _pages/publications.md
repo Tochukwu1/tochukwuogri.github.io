@@ -6,27 +6,33 @@ author_profile: true
 ---
 
 ## Journal
-A. L. Diaz, A. Ortega, H. Tingle, **A. Pulido**, O. Cordero, M. Nelson, N. Cocoves, J. Shin, R. Carthy, B. Wilkinson, and P. Ifju, **“The Bathy-Drone: An Autonomous Uncrewed Drone-Tethered Sonar System,”** Drones, vol. 6, no. 10, p. 294, Oct. 2022, doi: 10.3390/drones6100294.
-[[Paper]](https://www.mdpi.com/2504-446X/6/10/294) 
+**T. E. Ogri**, M. Qureshi, Z. I. Bell, and R. Kamalapurkar, **"State and input constrained output-feedback adaptive optimal control of affine nonlinear systems,"** *Automatica*, 2026 (Accepted for Publication). 
+[[Preprint]](https://arxiv.org/pdf/2406.18804)
 
-D. Jung, **A. Pulido**, J. Shin and S. -W. Kim, **"Point Cloud Structural Similarity-Based Underwater Sonar Loop Detection,"** in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2025.3547304
-[[Paper]](https://ieeexplore.ieee.org/document/10908830)
+**T. E. Ogri**, M. Qureshi, Z. I. Bell, W. A. Makumi, and R. Kamalapurkar, **"An Output Feedback Approach to Differential Graphical Games in Linear Multiagent Systems,"** *IEEE Control Systems Letters*, 2025. 
+[[Link]](https://doi.org/10.1109/LCSYS.2025.3612938)
 
-**Andres Pulido**, Joseph Sforza, Jack Parker, Antonio Diaz, Nicholas Sardinia, Blake Sanders, Sayeed Ali, Alex Baker, Alex Theophanis, Daniel Minogue, Thomas Chase, Arthur Baker, Peter Ifju, Jane Shin, **"Autonomous Bathy-drone: An Autonomous Aerial-Aquatic Robotic System for Bathymetric Mapping with Input-Driven Path Planning and Surface Navigation and Control"**, IEEE Access (Submitted) 
+M. Qureshi, **T. E. Ogri**, H. Ramos, W. A. Makumi, and R. Kamalapurkar, **"A Switched Adaptive Control Approach to Reduce Sensing Needs in Trajectory Tracking Problems,"** *IEEE Control Systems Letters*, 2025. 
+[[Link]](https://doi.org/10.1109/LCSYS.2025.3641525)
 
 ## Conference
-Zhang, Zi-Hao and Herrin, E. Baker and Guo, Jia and Penumarti, Aditya and He, Zilong and, **Pulido, Andres** and Shin, Jane, **"Action Recognition for Underwater Gesture Communication in Human Diver and Robot Teaming,"** 2025 IEEERSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China. [[Confference Paper]](https://ieeexplore.ieee.org/document/11247289)
+T. Satharasi, **T. E. Ogri**, M. H. Qureshi, K. Volle, and R. Kamalapurkar, **"Safe adaptive feedback control via barrier states,"** *Proc. IFAC World Congr.*, 2026. 
+[[Preprint]](https://arxiv.org/abs/2601.00476)
 
-**A. Pulido** and J. Shin, **"Uncertainty-Driven Online Path Planning for Autonomous Bathymetry Mapping Using a Tethered System"** AIAA SciTech 2026 Forum [[Conference Paper]](https://arc.aiaa.org/doi/10.2514/6.2026-2375)
+M. H. Qureshi, **T. E. Ogri**, K. Volle, and R. Kamalapurkar, **"A Taylor Series Approach to Correct Localization Errors in Robotic Field Mapping using Gaussian Processes,"** *Proc. Eur. Control Conf.*, 2026. 
+[[Preprint]](https://arxiv.org/abs/2601.20149)
 
-**A. Pulido**, K. Volle, Z. I. Bell and J. Shin, **"Transformer-based Motion Model for Robust Target Tracking under Intermittent and Noisy Measurements"** 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China. [[Confference Paper]](https://ieeexplore.ieee.org/document/11246328)
+**T. E. Ogri**, M. Qureshi, Z. I. Bell, M. Longmire, and R. Kamalapurkar, **"Monocular inspection of spacecraft under illumination constraints and avoidance regions,"** *Proc. Am. Control Conf.*, 2025. 
+[[Link]](https://doi.org/10.23919/ACC63710.2025.11108034)
 
-**A. Pulido**, K. Volle, K. Waters, Z. I. Bell, P. Ganesh and J. Shin, **"Uncertainty-Aware Guidance for Target Tracking subject to Intermittent Measurements using Motion Model Learning,"** 2025 American Control Conference (ACC), Denver, CO, USA, 2025, pp. 3140-3145, doi: 10.23919/ACC63710.2025.11107429. [[Conference Paper]](https://ieeexplore.ieee.org/document/11107429)
+**T. E. Ogri**, M. Qureshi, Z. I. Bell, K. Waters, and R. Kamalapurkar, **"An adaptive optimal control approach to monocular depth observability maximization,"** *Proc. Am. Control Conf.*, pp. 2356-2361, 2024. 
+[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10644784)
 
-E. Baker Herrin, Aditya Penumarti, **Andres Pulido**, Nikhil Iyer, You-Long Wu, Kaleb Lewellen, Tyler Fitzsimmons and Jane Shin, **"Lessons from RAITE: real-world evaluation of robust multimodal target detection and tracking under adversarial attacks"**, SPIE 2025, [[Conference Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13480/3053971/Lessons-from-RAITE--real-world-evaluation-of-robust-multimodal/10.1117/12.3053971.short)
+M. Qureshi, **T. E. Ogri**, Z. I. Bell, and R. Kamalapurkar, **"Scalar field mapping with adaptive high-intensity region avoidance,"** *Proc. IEEE Conf. Control Technol. Appl.*, pp. 388-393, 2024. 
+[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10666509)
 
-**Andres Pulido**, Blake Sanders, Nicholas Sardinia, Antonio Diaz, Henry Tingle, Peter Ifju and Jane Shin, **"Coverage path planning for a robotics platform equipped with a side-scan sonar sensor for underwater bathymetry mapping"** AIAA SciTech 2024 Forum [[Conference Paper]](https://arc.aiaa.org/doi/10.2514/6.2024-1204)
+**T. E. Ogri**, Z. I. Bell, and R. Kamalapurkar, **"State and parameter estimation for affine nonlinear systems,"** *Proc. IEEE Conf. Decis. Control*, pp. 1517-1522, 2023. 
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10383293)
 
-**Andres Pulido**, Ruoyao Qin, Antonio Diaz, Andrew Ortega, Peter Ifju, Jane Shin, **"Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection"** , OCEANS 2022 Conference [[Preprint]](https://arxiv.org/abs/2210.10263) [[Conference Paper]](https://ieeexplore-ieee-org.lp.hscl.ufl.edu/document/9977073)
-
-**Andres Pulido**, Antonio Diaz, Andrew Ortega, Peter Ifju, Jane Shin, **"Trajectory Planning and Control of Bathy-drone: A Drone Towing a Boat equipped with Sonar for Bathymetry Mapping"** , AIAA SciTech 2023 Forum [[Conference paper]](https://arc.aiaa.org/doi/10.2514/6.2023-1811)
+**T. E. Ogri**, S. M. N. Mahmud, Z. I. Bell, and R. Kamalapurkar, **"Output feedback adaptive optimal control of affine nonlinear systems with a linear measurement model,"** *Proc. IEEE Conf. Control Technol. Appl.*, pp. 645-650, 2023. 
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10252924)
